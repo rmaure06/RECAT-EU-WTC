@@ -169,7 +169,7 @@ private:
         m_RecatMap["CL60"] = "E"; m_RecatMap["CL30"] = "E"; m_RecatMap["CL35"] = "E"; // Challenger
         m_RecatMap["C750"] = "E"; // Citation X
 		// Others
-        m_RecatMap["RFAL"] = "E";
+		m_RecatMap["RFAL"] = "E"; m_RecatMap["EUFI"] = "E";
 
         // --- CAT F: LIGHT ---
         // General Aviation (Single Engine)
